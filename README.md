@@ -2,7 +2,7 @@
 
 - 👀  I’m interested in all things tech
 - 🔭  Currently working with Samsung Research Institute, Bangalore
-- 🌱  Currently learning Go
+- 🌱  Learning and Growing everyday
 - 😄  Pronouns:He/Him 
 <br>
 📫 Connect with me
